@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lee_jar</output-path>
+    <root id="archive" name="BroadcastTest.jar">
+      <element id="module-output" name="lee" />
+    </root>
+  </artifact>
+</component>
